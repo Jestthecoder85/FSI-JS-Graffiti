@@ -11,3 +11,4 @@ let pupNames = document.querySelectorAll ('.dog-name')
 for(let i = 0; i < pupNames.length; i++) {
     pupNames[i].style.textAlign = "left"
 }
+
